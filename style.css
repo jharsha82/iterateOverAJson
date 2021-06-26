@@ -1,0 +1,13 @@
+tr {
+    display: flex;
+    padding: 10px;
+    border: 1px solid #e4e4e4;
+}
+
+td {
+    width: 50%;
+}
+
+table {
+    width: 100%;
+}
